@@ -1,15 +1,14 @@
-# <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Gabriel</b>
+# <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hej, Hello, Hola, Salut, Salve!</b>
 
 <br>
 
 <img alt="Computer image that I like" align="right" src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/computer-illustration.png" width="200"/>
 <p align="left">
-  <p>Hej, Hello, Hola, Salut!, Salve!<br>
-  I'm Gabriel, Software Engineer from <img alt="Flag of Denmark" src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="14px"/> <b>Horsens, Denmark</b>.</p>
+  <p>I'm Gabriel, Software Engineer from <img alt="Flag of Denmark" src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="14px"/> <b>Horsens, Denmark</b>.</p>
 
 💡 &nbsp;I like to research and develop my ideas, work on personal projects of whatever I find interesting, and spend too
 much money on hardware that I think is cool or interesting ( I am looking at you NAS >.>).\
-🌱 &nbsp;I'm studying Software Engineering at <a href="https://www.via.dk/">VIA University College</a> and I'm currently learning about <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>, UML, Responsive Web Design.\
+🌱 &nbsp;I'm studying Software Engineering at <a href="https://www.via.dk/">VIA University College</a> and I'm currently learning about <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>, <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">Unified Modeling Language (UML)</a>, <a href="https://en.wikipedia.org/wiki/Responsive_web_design">Responsive web design (RWD)</a>.\
 ⚡ Fun facts: I have a Bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Master in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
 
 *:fire:&nbsp;Motivation for me is to learn new things and to be able to use them in my daily life.*
