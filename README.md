@@ -41,13 +41,19 @@ Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/Persona
     <img alt="Jquerry" src="https://img.shields.io/badge/-Jquerry-0769AD?style=flat-square&logo=jquery" />
 </p>
 
-## 👨🏻‍💻 &nbsp;Tools I use for programming and software design ##
+## 👨🏻‍💻 &nbsp;Tools I use for programming, software design & Web design ##
 
 <p>
+Programming:<br>
 <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<br>API design:<br>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<br>Web design:<br>
 <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+<img alt="Astah" src="https://img.shields.io/badge/-Astah-FF6C37?style=flat-square&logo=astah&logoColor=white" />
+<img alt="balsamiq" src="https://img.shields.io/badge/-Balsamiq-FF6C37?style=flat-square&logo=balsamiq&logoColor=white" />
+<br>Video, Audio, graphics editing:<br>
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white" />
 </p>
 
