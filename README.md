@@ -16,7 +16,7 @@ much money on hardware that I think is cool or interesting ( I am looking at you
 
 ## 💬&nbsp;Languages I speak ##
 
-English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied english for 10 years and now I am studing in english)<br>
+English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied english for 10 years and now I am studying in english)<br>
 Spanish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Spain.svg" width="17px"/> (Visito España desde que tenía 4 años hasta mi edad actual porque mi madre vive allí desde hace 20 años.)<br>
 Romanian <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Romania.svg" width="17"/> (Am locuit, studiat si lucrat in Romania)<br>
 Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="17px"/> (Jeg læser dansk og er modul 3)
