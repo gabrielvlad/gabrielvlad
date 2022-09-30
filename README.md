@@ -10,7 +10,7 @@
 💡 &nbsp;I like to research and develop my ideas, work on personal projects of whatever I find interesting, and spend too
 much money on hardware that I think is cool or interesting ( I am looking at you NAS >.>).\
 🌱 &nbsp;I'm studying Software Engineering at <a href="https://www.via.dk/">VIA University College</a> and I'm currently learning about <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>, UML, Responsive Web Design.\
-⚡ Fun facts: I have a bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Masater in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
+⚡ Fun facts: I have a bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Master in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
 
 *:fire:&nbsp;Motivation for me is to learn new things and to be able to use them in my daily life.*
 
