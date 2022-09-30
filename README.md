@@ -10,7 +10,7 @@
 💡 &nbsp;I like to research and develop my ideas, work on personal projects of whatever I find interesting, and spend too
 much money on hardware that I think is cool or interesting ( I am looking at you NAS >.>).\
 🌱 &nbsp;I'm studying Software Engineering at <a href="https://www.via.dk/">VIA University College</a> and I'm currently learning about <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>, UML, Responsive Web Design.\
-⚡ Fun facts: I have a bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Master in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
+⚡ Fun facts: I have a Bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Master in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
 
 *:fire:&nbsp;Motivation for me is to learn new things and to be able to use them in my daily life.*
 
@@ -19,20 +19,19 @@ much money on hardware that I think is cool or interesting ( I am looking at you
 English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied english for 10 years and now I am studing in english)<br>
 Spanish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Spain.svg" width="17px"/> (Visito España desde que tenía 4 años hasta mi edad actual porque mi madre vive allí desde hace 20 años.)<br>
 Romanian <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Romania.svg" width="17"/> (Am locuit, studiat si lucrat in Romania)<br>
-Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="17px"/> (
-Jeg læser dansk og er modul 3)
+Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="17px"/> (Jeg læser dansk og er modul 3)
 
-<!--- Maybe mention that I also understand French and german, but I can't speak them -->
+<!--- Maybe mention that I also understand French and German, but I can't speak them -->
 
 ## 🪛 &nbsp;Languages I use to code ##
 
 <p>
-    Object Oriented Programming:
+    Object Oriented Programming:<br>
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    Scripting language due to owning a M.T.A private server while in Highschool:
+    <br>Scripting language due to owning a M.T.A private server while in Highschool:<br>
     <img alt="lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-    Web development for a danish startup:
+    <br>Web development learned from school, freelance projects and working for a danish startup:<br>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
