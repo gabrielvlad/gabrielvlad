@@ -23,7 +23,7 @@ Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/Persona
 
 <!--- Maybe mention that I also understand French and German, but I can't speak them -->
 
-## 🪛 &nbsp;Languages I use to code ##
+## 🪛 &nbsp;Languages I use to code & I am still studying ##
 
 <p>
     Object Oriented Programming:<br>
