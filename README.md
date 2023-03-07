@@ -15,7 +15,7 @@ much money on hardware that I think is cool or interesting ( I am looking at you
 
 ## 💬&nbsp;Languages I speak ##
 
-English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied english for 10 years and now I am studying in english)<br>
+English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied English for 10 years and now I am studying in English)<br>
 Spanish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Spain.svg" width="17px"/> (Visito España desde que tenía 4 años hasta mi edad actual porque mi madre vive allí desde hace 20 años.)<br>
 Romanian <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Romania.svg" width="17"/> (Am locuit, studiat si lucrat in Romania)<br>
 Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Denmark.svg" width="17px"/> (Jeg læste dansk op til modul 3)
@@ -41,7 +41,7 @@ Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/Persona
     <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-    <img alt="Jquerry" src="https://img.shields.io/badge/-Jquerry-0769AD?style=flat-square&logo=jquery" />
+    <img alt="Jquery" src="https://img.shields.io/badge/-Jquerry-0769AD?style=flat-square&logo=jquery" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;Tools I use for programming, software design & Web design ##
@@ -76,12 +76,12 @@ Programming IDEs:<br>
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 <br>Project Management:<br>
 <img alt="Jira Software" src="https://img.shields.io/badge/-Jira%20Software-0052CC?style=flat-square&logo=jira-software&logoColor=white" />
-<br>Operating systems I am confortable with:<br>
+<br>Operating systems I am comfortable with:<br>
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white" />
 <img alt="PopOS" src="https://img.shields.io/badge/-PopOS-48B9C7?style=flat-square&logo=popos&logoColor=white" />
-<br>Packages I am confortable with:<br>
+<br>Packages I am comfortable with:<br>
 <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
 <img alt="chocolatey" src="https://img.shields.io/badge/-chocolatey-3581BA?style=flat-square&logo=chocolatey&logoColor=white" />
