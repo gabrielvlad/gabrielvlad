@@ -1,5 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hej, Hello, Hola, Salut, Salve!</b>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielvlad&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielvlad github counter aka my github profile counter" /> </p>
 <br>
 
 <img alt="Computer image that I like" align="right" src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/computer-illustration.png" width="200"/>
@@ -11,9 +12,9 @@ much money on hardware that I think is cool or interesting ( I am looking at you
 🌱 &nbsp;I'm studying Software Engineering at <a href="https://www.via.dk/">VIA University College</a> and currently learning about <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>, <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">Unified Modeling Language (UML)</a>, <a href="https://en.wikipedia.org/wiki/Responsive_web_design">Responsive web design (RWD)</a>.\
 ⚡ Fun facts: I have a Bachelor of science in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Business_administration" target="_blank"><u>Business Administration</u></a> and a Master in <a style="color:#45b8d8" href="https://en.wikipedia.org/wiki/Information_Management" target="_blank"><u>Information Management</u></a> .
 
-*:fire:&nbsp;Motivation for me is to learn new things and to be able to implement them in my daily life to make it better, for example: my own open source netflix and spotify like apps (only the UI and the media player in this instance) :)*
+_:fire:&nbsp;Motivation for me is to learn new things and to be able to implement them in my daily life to make it better, for example: my own open source netflix and spotify like apps (only the UI and the media player in this instance) :)_
 
-## 💬&nbsp;Languages I speak ##
+## 💬&nbsp;Languages I speak
 
 English <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_the_United_Kingdom.svg" width="17px"/> (I have studied English for 10 years and now I am studying in English)<br>
 Spanish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/PersonalGithubReadme/Flag_of_Spain.svg" width="17px"/> (Visito España desde que tenía 4 años hasta mi edad actual porque mi madre vive allí desde hace 20 años.)<br>
@@ -22,7 +23,7 @@ Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/Persona
 
 <!--- Maybe mention that I also understand French and German, but I can't speak them -->
 
-## 🪛 &nbsp;Languages I use to code & I am still studying ##
+## 🪛 &nbsp;Languages I use to code & I am still studying
 
 <p>
     Object Oriented Programming:<br>
@@ -44,7 +45,7 @@ Danish <img src="https://cdn.jsdelivr.net/gh/gabrielvlad/assets-cdn@main/Persona
     <img alt="Jquery" src="https://img.shields.io/badge/-Jquerry-0769AD?style=flat-square&logo=jquery" />
 </p>
 
-## 👨🏻‍💻 &nbsp;Tools I use for programming, software design & Web design ##
+## 👨🏻‍💻 &nbsp;Tools I use for programming, software design & Web design
 
 <p>
 Programming IDEs:<br>
@@ -87,7 +88,7 @@ Programming IDEs:<br>
 <img alt="chocolatey" src="https://img.shields.io/badge/-chocolatey-3581BA?style=flat-square&logo=chocolatey&logoColor=white" />
 </p>
 
-## 🌎 &nbsp;Where to find me ##
+## 🌎 &nbsp;Where to find me
 
 <p>
     <a href="https://www.linkedin.com/in/gabrielvlad22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -95,7 +96,7 @@ Programming IDEs:<br>
     <a href="https://www.instagram.com/gabriel.vlad22/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-## 📈 &nbsp;Some GitHub Stats ##
+## 📈 &nbsp;Some GitHub Stats
 
 <span align="left"></span>
 
@@ -104,5 +105,3 @@ Programming IDEs:<br>
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielvlad&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
-
-
