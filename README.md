@@ -94,6 +94,7 @@ Programming IDEs:<br>
     <a href="https://www.linkedin.com/in/gabrielvlad22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:gabriel.vlad@outlook.dk" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
     <a href="https://www.instagram.com/gabriel.vlad22/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.gabrielvlad.com" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My%20Personal%20Website-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></a>
 </p>
 
 ## 📈 &nbsp;Some GitHub Stats
